@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do 
-    "Welcome to your app!!!! I BUILT THIS! Poop
+    "Welcome to your app!!!! I BUILT THIS! Poop"
   end
 
 end
